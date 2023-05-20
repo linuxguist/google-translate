@@ -11,6 +11,9 @@ Add the following lines to your html's head and body sections:
 
 </head>
 
+```
+
+```
 
 <body>
 
