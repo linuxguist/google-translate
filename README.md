@@ -7,7 +7,7 @@ Add the following lines to your html's head and body sections:
 
 <head>
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/linuxguist/google-translate@main/google-translate-ix.css">    
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/linuxguist/google-translate@main/google-translate-xix.css">    
 
 </head>
 
@@ -17,7 +17,7 @@ Add the following lines to your html's head and body sections:
 
 <body>
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/linuxguist/google-translate@main/google-translate-vi.js"></script>  
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/linuxguist/google-translate@main/google-translate-viii.js"></script>  
 
 </body>
 
